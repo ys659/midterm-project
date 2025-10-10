@@ -1,0 +1,25 @@
+cat > .gitignore <<'EOF'
+# Virtualenvs
+venv/
+app/venv/
+**/venv/
+# Python caches
+__pycache__/
+*.py[cod]
+# Byte-compiled / distribution folders
+build/
+dist/
+*.egg-info/
+# OS / editor files
+.DS_Store
+.vscode/
+.idea/
+# .env
+EOF
+
+git rm -r --cached venv app/venv || true
+git rm -r --cached **/venv || true
+git add .gitignore
+git commit -m "chore: add .gitignore and remove committed virtualenvs & caches"
+git push
+
