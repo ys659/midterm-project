@@ -1,0 +1,297 @@
+2025-10-08 16:54:48,090 - INFO - Logging initialized at: /home/meta/Documents/programs/IS 601/module5_is601/test_logs/test_log.log
+2025-10-08 16:54:48,090 - INFO - No history file found - starting with empty history
+2025-10-08 16:54:48,090 - INFO - Calculator initialized with configuration
+2025-10-08 16:54:48,090 - INFO - Added observer: LoggingObserver
+2025-10-08 16:54:48,090 - INFO - Added observer: AutoSaveObserver
+2025-10-08 16:54:48,092 - INFO - Logging initialized at: /home/meta/Documents/programs/IS 601/module5_is601/test_logs/test_log.log
+2025-10-08 16:54:48,092 - INFO - No history file found - starting with empty history
+2025-10-08 16:54:48,092 - INFO - Calculator initialized with configuration
+2025-10-08 16:54:48,092 - INFO - Added observer: LoggingObserver
+2025-10-08 16:54:48,092 - INFO - Added observer: AutoSaveObserver
+2025-10-08 16:54:48,095 - INFO - Empty history saved
+2025-10-08 16:54:48,097 - INFO - Logging initialized at: /home/meta/Documents/programs/IS 601/module5_is601/test_logs/test_log.log
+2025-10-08 16:54:48,099 - INFO - Loaded empty history file
+2025-10-08 16:54:48,099 - INFO - Calculator initialized with configuration
+2025-10-08 16:54:48,099 - INFO - Added observer: LoggingObserver
+2025-10-08 16:54:48,099 - INFO - Added observer: AutoSaveObserver
+2025-10-08 16:54:48,099 - INFO - Set operation: Addition
+2025-10-08 16:54:48,099 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-08 16:54:48,101 - INFO - History saved successfully to /home/meta/Documents/programs/IS 601/module5_is601/test_history/test_history.csv
+2025-10-08 16:54:48,125 - INFO - History auto-saved
+2025-10-09 16:14:14,912 - INFO - Logging initialized at: /home/meta/Documents/programs/IS 601/assignment5/test_logs/test_log.log
+2025-10-09 16:14:14,913 - INFO - Loaded 1 calculations from history
+2025-10-09 16:14:14,913 - INFO - Calculator initialized with configuration
+2025-10-09 16:14:14,913 - INFO - Added observer: LoggingObserver
+2025-10-09 16:14:14,913 - INFO - Added observer: AutoSaveObserver
+2025-10-09 16:14:14,916 - INFO - Logging initialized at: /home/meta/Documents/programs/IS 601/assignment5/test_logs/test_log.log
+2025-10-09 16:14:14,917 - INFO - Loaded 1 calculations from history
+2025-10-09 16:14:14,917 - INFO - Calculator initialized with configuration
+2025-10-09 16:14:14,917 - INFO - Added observer: LoggingObserver
+2025-10-09 16:14:14,917 - INFO - Added observer: AutoSaveObserver
+2025-10-09 16:14:14,919 - INFO - History saved successfully to /home/meta/Documents/programs/IS 601/assignment5/test_history/test_history.csv
+2025-10-09 16:14:14,921 - INFO - Logging initialized at: /home/meta/Documents/programs/IS 601/assignment5/test_logs/test_log.log
+2025-10-09 16:14:14,923 - INFO - Loaded 1 calculations from history
+2025-10-09 16:14:14,923 - INFO - Calculator initialized with configuration
+2025-10-09 16:14:14,923 - INFO - Added observer: LoggingObserver
+2025-10-09 16:14:14,923 - INFO - Added observer: AutoSaveObserver
+2025-10-09 16:14:14,923 - INFO - Set operation: Addition
+2025-10-09 16:14:14,923 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-09 16:14:14,924 - INFO - History saved successfully to /home/meta/Documents/programs/IS 601/assignment5/test_history/test_history.csv
+2025-10-09 16:14:14,954 - INFO - History auto-saved
+2025-10-09 16:46:43,917 - INFO - Logging initialized at: /home/meta/Documents/programs/IS 601/assignment5/test_logs/test_log.log
+2025-10-09 16:46:43,919 - INFO - Loaded 2 calculations from history
+2025-10-09 16:46:43,919 - INFO - Calculator initialized with configuration
+2025-10-09 16:46:43,919 - INFO - Added observer: LoggingObserver
+2025-10-09 16:46:43,919 - INFO - Added observer: AutoSaveObserver
+2025-10-09 16:46:43,922 - INFO - Logging initialized at: /home/meta/Documents/programs/IS 601/assignment5/test_logs/test_log.log
+2025-10-09 16:46:43,923 - INFO - Loaded 2 calculations from history
+2025-10-09 16:46:43,923 - INFO - Calculator initialized with configuration
+2025-10-09 16:46:43,923 - INFO - Added observer: LoggingObserver
+2025-10-09 16:46:43,923 - INFO - Added observer: AutoSaveObserver
+2025-10-09 16:46:43,925 - INFO - History saved successfully to /home/meta/Documents/programs/IS 601/assignment5/test_history/test_history.csv
+2025-10-09 16:46:43,928 - INFO - Logging initialized at: /home/meta/Documents/programs/IS 601/assignment5/test_logs/test_log.log
+2025-10-09 16:46:43,929 - INFO - Loaded 2 calculations from history
+2025-10-09 16:46:43,929 - INFO - Calculator initialized with configuration
+2025-10-09 16:46:43,929 - INFO - Added observer: LoggingObserver
+2025-10-09 16:46:43,929 - INFO - Added observer: AutoSaveObserver
+2025-10-09 16:46:43,930 - INFO - Set operation: Addition
+2025-10-09 16:46:43,930 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-09 16:46:43,931 - INFO - History saved successfully to /home/meta/Documents/programs/IS 601/assignment5/test_history/test_history.csv
+2025-10-09 16:46:43,956 - INFO - History auto-saved
+2025-10-09 18:34:58,304 - INFO - Logging initialized at: /home/meta/Documents/programs/IS 601/assignment5/test_logs/test_log.log
+2025-10-09 18:34:58,306 - INFO - Loaded 3 calculations from history
+2025-10-09 18:34:58,306 - INFO - Calculator initialized with configuration
+2025-10-09 18:34:58,306 - INFO - Added observer: LoggingObserver
+2025-10-09 18:34:58,306 - INFO - Added observer: AutoSaveObserver
+2025-10-09 18:34:58,308 - INFO - Logging initialized at: /home/meta/Documents/programs/IS 601/assignment5/test_logs/test_log.log
+2025-10-09 18:34:58,309 - INFO - Loaded 3 calculations from history
+2025-10-09 18:34:58,310 - INFO - Calculator initialized with configuration
+2025-10-09 18:34:58,310 - INFO - Added observer: LoggingObserver
+2025-10-09 18:34:58,310 - INFO - Added observer: AutoSaveObserver
+2025-10-09 18:34:58,314 - INFO - History saved successfully to /home/meta/Documents/programs/IS 601/assignment5/test_history/test_history.csv
+2025-10-09 18:34:58,315 - INFO - Logging initialized at: /home/meta/Documents/programs/IS 601/assignment5/test_logs/test_log.log
+2025-10-09 18:34:58,317 - INFO - Loaded 3 calculations from history
+2025-10-09 18:34:58,317 - INFO - Calculator initialized with configuration
+2025-10-09 18:34:58,317 - INFO - Added observer: LoggingObserver
+2025-10-09 18:34:58,317 - INFO - Added observer: AutoSaveObserver
+2025-10-09 18:34:58,317 - INFO - Set operation: Addition
+2025-10-09 18:34:58,318 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-09 18:34:58,323 - INFO - History saved successfully to /home/meta/Documents/programs/IS 601/assignment5/test_history/test_history.csv
+2025-10-09 18:34:58,348 - INFO - History auto-saved
+2025-10-09 18:40:08,464 - INFO - Logging initialized at: /home/meta/Documents/programs/IS 601/assignment5/test_logs/test_log.log
+2025-10-09 18:40:08,466 - INFO - Loaded 4 calculations from history
+2025-10-09 18:40:08,466 - INFO - Calculator initialized with configuration
+2025-10-09 18:40:08,466 - INFO - Added observer: LoggingObserver
+2025-10-09 18:40:08,466 - INFO - Added observer: AutoSaveObserver
+2025-10-09 18:40:08,469 - INFO - Logging initialized at: /home/meta/Documents/programs/IS 601/assignment5/test_logs/test_log.log
+2025-10-09 18:40:08,470 - INFO - Loaded 4 calculations from history
+2025-10-09 18:40:08,470 - INFO - Calculator initialized with configuration
+2025-10-09 18:40:08,470 - INFO - Added observer: LoggingObserver
+2025-10-09 18:40:08,470 - INFO - Added observer: AutoSaveObserver
+2025-10-09 18:40:08,473 - INFO - History saved successfully to /home/meta/Documents/programs/IS 601/assignment5/test_history/test_history.csv
+2025-10-09 18:40:08,474 - INFO - Logging initialized at: /home/meta/Documents/programs/IS 601/assignment5/test_logs/test_log.log
+2025-10-09 18:40:08,476 - INFO - Loaded 4 calculations from history
+2025-10-09 18:40:08,476 - INFO - Calculator initialized with configuration
+2025-10-09 18:40:08,476 - INFO - Added observer: LoggingObserver
+2025-10-09 18:40:08,476 - INFO - Added observer: AutoSaveObserver
+2025-10-09 18:40:08,477 - INFO - Set operation: Addition
+2025-10-09 18:40:08,477 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-09 18:40:08,482 - INFO - History saved successfully to /home/meta/Documents/programs/IS 601/assignment5/test_history/test_history.csv
+2025-10-09 18:40:08,508 - INFO - History auto-saved
+2025-10-09 20:50:13,705 - INFO - Logging initialized at: /mnt/c/Users/meta/IS601/assignment5/test_logs/test_log.log
+2025-10-09 20:50:13,776 - INFO - Loaded 5 calculations from history
+2025-10-09 20:50:13,776 - INFO - Calculator initialized with configuration
+2025-10-09 20:50:13,777 - INFO - Added observer: LoggingObserver
+2025-10-09 20:50:13,778 - INFO - Added observer: AutoSaveObserver
+2025-10-09 20:50:13,824 - INFO - Logging initialized at: /mnt/c/Users/meta/IS601/assignment5/test_logs/test_log.log
+2025-10-09 20:50:13,881 - INFO - Loaded 5 calculations from history
+2025-10-09 20:50:13,882 - INFO - Calculator initialized with configuration
+2025-10-09 20:50:13,883 - INFO - Added observer: LoggingObserver
+2025-10-09 20:50:13,883 - INFO - Added observer: AutoSaveObserver
+2025-10-09 20:50:13,969 - INFO - History saved successfully to /mnt/c/Users/meta/IS601/assignment5/test_history/test_history.csv
+2025-10-09 20:50:14,002 - INFO - Logging initialized at: /mnt/c/Users/meta/IS601/assignment5/test_logs/test_log.log
+2025-10-09 20:50:14,056 - INFO - Loaded 5 calculations from history
+2025-10-09 20:50:14,057 - INFO - Calculator initialized with configuration
+2025-10-09 20:50:14,058 - INFO - Added observer: LoggingObserver
+2025-10-09 20:50:14,059 - INFO - Added observer: AutoSaveObserver
+2025-10-09 20:50:14,060 - INFO - Set operation: Addition
+2025-10-09 20:50:14,060 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-09 20:50:14,121 - INFO - History saved successfully to /mnt/c/Users/meta/IS601/assignment5/test_history/test_history.csv
+2025-10-09 20:50:14,347 - INFO - History auto-saved
+2025-10-09 20:54:25,567 - INFO - Logging initialized at: /mnt/c/Users/meta/IS601/assignment5/test_logs/test_log.log
+2025-10-09 20:54:25,608 - INFO - Loaded 6 calculations from history
+2025-10-09 20:54:25,609 - INFO - Calculator initialized with configuration
+2025-10-09 20:54:25,610 - INFO - Added observer: LoggingObserver
+2025-10-09 20:54:25,610 - INFO - Added observer: AutoSaveObserver
+2025-10-09 20:54:25,644 - INFO - Logging initialized at: /mnt/c/Users/meta/IS601/assignment5/test_logs/test_log.log
+2025-10-09 20:54:25,689 - INFO - Loaded 6 calculations from history
+2025-10-09 20:54:25,690 - INFO - Calculator initialized with configuration
+2025-10-09 20:54:25,691 - INFO - Added observer: LoggingObserver
+2025-10-09 20:54:25,692 - INFO - Added observer: AutoSaveObserver
+2025-10-09 20:54:25,746 - INFO - History saved successfully to /mnt/c/Users/meta/IS601/assignment5/test_history/test_history.csv
+2025-10-09 20:54:25,766 - INFO - Logging initialized at: /mnt/c/Users/meta/IS601/assignment5/test_logs/test_log.log
+2025-10-09 20:54:25,814 - INFO - Loaded 6 calculations from history
+2025-10-09 20:54:25,815 - INFO - Calculator initialized with configuration
+2025-10-09 20:54:25,816 - INFO - Added observer: LoggingObserver
+2025-10-09 20:54:25,816 - INFO - Added observer: AutoSaveObserver
+2025-10-09 20:54:25,817 - INFO - Set operation: Addition
+2025-10-09 20:54:25,818 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-09 20:54:25,868 - INFO - History saved successfully to /mnt/c/Users/meta/IS601/assignment5/test_history/test_history.csv
+2025-10-09 20:54:26,037 - INFO - History auto-saved
+2025-10-09 22:22:13,058 - INFO - Logging initialized at: /mnt/c/Users/meta/IS601/midterm-project/test_logs/test_log.log
+2025-10-09 22:22:13,067 - INFO - Loaded 7 calculations from history
+2025-10-09 22:22:13,067 - INFO - Calculator initialized with configuration
+2025-10-09 22:22:13,067 - INFO - Added observer: LoggingObserver
+2025-10-09 22:22:13,067 - INFO - Added observer: AutoSaveObserver
+2025-10-09 22:22:15,090 - INFO - Logging initialized at: /mnt/c/Users/meta/IS601/midterm-project/test_logs/test_log.log
+2025-10-09 22:22:15,106 - INFO - Loaded 7 calculations from history
+2025-10-09 22:22:15,107 - INFO - Calculator initialized with configuration
+2025-10-09 22:22:15,107 - INFO - Added observer: LoggingObserver
+2025-10-09 22:22:15,107 - INFO - Added observer: AutoSaveObserver
+2025-10-09 22:22:15,151 - INFO - Logging initialized at: /mnt/c/Users/meta/IS601/midterm-project/test_logs/test_log.log
+2025-10-09 22:22:15,159 - INFO - Loaded 7 calculations from history
+2025-10-09 22:22:15,160 - INFO - Calculator initialized with configuration
+2025-10-09 22:22:15,160 - INFO - Added observer: LoggingObserver
+2025-10-09 22:22:15,160 - INFO - Added observer: AutoSaveObserver
+2025-10-09 22:22:15,234 - INFO - History auto-saved
+2025-10-09 22:29:57,389 - INFO - Logging initialized at: /mnt/c/Users/meta/IS601/midterm-project/test_logs/test_log.log
+2025-10-09 22:29:57,398 - INFO - Loaded 7 calculations from history
+2025-10-09 22:29:57,398 - INFO - Calculator initialized with configuration
+2025-10-09 22:29:57,399 - INFO - Added observer: LoggingObserver
+2025-10-09 22:29:57,399 - INFO - Added observer: AutoSaveObserver
+2025-10-09 22:29:59,498 - INFO - Logging initialized at: /mnt/c/Users/meta/IS601/midterm-project/test_logs/test_log.log
+2025-10-09 22:29:59,511 - INFO - Loaded 7 calculations from history
+2025-10-09 22:29:59,512 - INFO - Calculator initialized with configuration
+2025-10-09 22:29:59,512 - INFO - Added observer: LoggingObserver
+2025-10-09 22:29:59,512 - INFO - Added observer: AutoSaveObserver
+2025-10-09 22:29:59,526 - INFO - History saved successfully to /mnt/c/Users/meta/IS601/midterm-project/test_history/test_history.csv
+2025-10-09 22:29:59,588 - INFO - Logging initialized at: /mnt/c/Users/meta/IS601/midterm-project/test_logs/test_log.log
+2025-10-09 22:29:59,603 - INFO - Loaded 7 calculations from history
+2025-10-09 22:29:59,603 - INFO - Calculator initialized with configuration
+2025-10-09 22:29:59,604 - INFO - Added observer: LoggingObserver
+2025-10-09 22:29:59,604 - INFO - Added observer: AutoSaveObserver
+2025-10-09 22:29:59,605 - INFO - Set operation: Addition
+2025-10-09 22:29:59,605 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-09 22:29:59,615 - INFO - History saved successfully to /mnt/c/Users/meta/IS601/midterm-project/test_history/test_history.csv
+2025-10-09 22:29:59,726 - INFO - History auto-saved
+2025-10-09 22:35:25,640 - INFO - Logging initialized at: /mnt/c/Users/meta/IS601/midterm-project/test_logs/test_log.log
+2025-10-09 22:35:25,649 - INFO - Loaded 8 calculations from history
+2025-10-09 22:35:25,649 - INFO - Calculator initialized with configuration
+2025-10-09 22:35:25,650 - INFO - Added observer: LoggingObserver
+2025-10-09 22:35:25,650 - INFO - Added observer: AutoSaveObserver
+2025-10-09 22:35:27,615 - INFO - Logging initialized at: /mnt/c/Users/meta/IS601/midterm-project/test_logs/test_log.log
+2025-10-09 22:35:27,624 - INFO - Loaded 8 calculations from history
+2025-10-09 22:35:27,624 - INFO - Calculator initialized with configuration
+2025-10-09 22:35:27,624 - INFO - Added observer: LoggingObserver
+2025-10-09 22:35:27,624 - INFO - Added observer: AutoSaveObserver
+2025-10-09 22:35:27,672 - INFO - Logging initialized at: /mnt/c/Users/meta/IS601/midterm-project/test_logs/test_log.log
+2025-10-09 22:35:27,681 - INFO - Loaded 8 calculations from history
+2025-10-09 22:35:27,681 - INFO - Calculator initialized with configuration
+2025-10-09 22:35:27,682 - INFO - Added observer: LoggingObserver
+2025-10-09 22:35:27,682 - INFO - Added observer: AutoSaveObserver
+2025-10-09 22:35:27,775 - INFO - History auto-saved
+2025-10-09 22:41:09,997 - INFO - Logging initialized at: /mnt/c/Users/meta/IS601/midterm-project/test_logs/test_log.log
+2025-10-09 22:41:10,007 - INFO - Loaded 8 calculations from history
+2025-10-09 22:41:10,008 - INFO - Calculator initialized with configuration
+2025-10-09 22:41:10,008 - INFO - Added observer: LoggingObserver
+2025-10-09 22:41:10,008 - INFO - Added observer: AutoSaveObserver
+2025-10-09 23:06:23,479 - INFO - Logging initialized at: /mnt/c/Users/meta/IS601/midterm-project/test_logs/test_log.log
+2025-10-09 23:06:23,490 - INFO - Loaded 8 calculations from history
+2025-10-09 23:06:23,490 - INFO - Calculator initialized with configuration
+2025-10-09 23:06:23,491 - INFO - Added observer: LoggingObserver
+2025-10-09 23:06:23,491 - INFO - Added observer: AutoSaveObserver
+2025-10-09 23:06:26,003 - INFO - Logging initialized at: /mnt/c/Users/meta/IS601/midterm-project/test_logs/test_log.log
+2025-10-09 23:06:26,027 - INFO - Loaded 8 calculations from history
+2025-10-09 23:06:26,028 - INFO - Calculator initialized with configuration
+2025-10-09 23:06:26,028 - INFO - Added observer: LoggingObserver
+2025-10-09 23:06:26,028 - INFO - Added observer: AutoSaveObserver
+2025-10-09 23:06:26,043 - INFO - History saved successfully to /mnt/c/Users/meta/IS601/midterm-project/test_history/test_history.csv
+2025-10-09 23:06:26,135 - INFO - Logging initialized at: /mnt/c/Users/meta/IS601/midterm-project/test_logs/test_log.log
+2025-10-09 23:06:26,184 - INFO - Loaded 8 calculations from history
+2025-10-09 23:06:26,185 - INFO - Calculator initialized with configuration
+2025-10-09 23:06:26,185 - INFO - Added observer: LoggingObserver
+2025-10-09 23:06:26,186 - INFO - Added observer: AutoSaveObserver
+2025-10-09 23:06:26,187 - INFO - Set operation: Addition
+2025-10-09 23:06:26,188 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-09 23:06:26,245 - INFO - History saved successfully to /mnt/c/Users/meta/IS601/midterm-project/test_history/test_history.csv
+2025-10-09 23:06:26,645 - INFO - History auto-saved
+2025-10-09 23:17:54,521 - INFO - Logging initialized at: /mnt/c/Users/meta/IS601/midterm-project/test_logs/test_log.log
+2025-10-09 23:17:54,533 - INFO - Loaded 9 calculations from history
+2025-10-09 23:17:54,533 - INFO - Calculator initialized with configuration
+2025-10-09 23:17:54,533 - INFO - Added observer: LoggingObserver
+2025-10-09 23:17:54,534 - INFO - Added observer: AutoSaveObserver
+2025-10-09 23:17:54,552 - INFO - Logging initialized at: /mnt/c/Users/meta/IS601/midterm-project/test_logs/test_log.log
+2025-10-09 23:17:54,568 - INFO - Loaded 9 calculations from history
+2025-10-09 23:17:54,568 - INFO - Calculator initialized with configuration
+2025-10-09 23:17:54,569 - INFO - Added observer: LoggingObserver
+2025-10-09 23:17:54,569 - INFO - Added observer: AutoSaveObserver
+2025-10-09 23:17:54,585 - INFO - History saved successfully to /mnt/c/Users/meta/IS601/midterm-project/test_history/test_history.csv
+2025-10-09 23:17:54,602 - INFO - Logging initialized at: /mnt/c/Users/meta/IS601/midterm-project/test_logs/test_log.log
+2025-10-09 23:17:54,615 - INFO - Loaded 9 calculations from history
+2025-10-09 23:17:54,615 - INFO - Calculator initialized with configuration
+2025-10-09 23:17:54,615 - INFO - Added observer: LoggingObserver
+2025-10-09 23:17:54,615 - INFO - Added observer: AutoSaveObserver
+2025-10-09 23:17:54,616 - INFO - Set operation: Addition
+2025-10-09 23:17:54,616 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-09 23:17:54,627 - INFO - History saved successfully to /mnt/c/Users/meta/IS601/midterm-project/test_history/test_history.csv
+2025-10-09 23:17:54,696 - INFO - History auto-saved
+2025-10-09 23:21:34,680 - INFO - Logging initialized at: /mnt/c/Users/meta/IS601/midterm-project/test_logs/test_log.log
+2025-10-09 23:21:34,723 - INFO - Loaded 10 calculations from history
+2025-10-09 23:21:34,724 - INFO - Calculator initialized with configuration
+2025-10-09 23:21:34,725 - INFO - Added observer: LoggingObserver
+2025-10-09 23:21:34,725 - INFO - Added observer: AutoSaveObserver
+2025-10-09 23:21:34,763 - INFO - Logging initialized at: /mnt/c/Users/meta/IS601/midterm-project/test_logs/test_log.log
+2025-10-09 23:21:34,813 - INFO - Loaded 10 calculations from history
+2025-10-09 23:21:34,814 - INFO - Calculator initialized with configuration
+2025-10-09 23:21:34,814 - INFO - Added observer: LoggingObserver
+2025-10-09 23:21:34,815 - INFO - Added observer: AutoSaveObserver
+2025-10-09 23:21:34,889 - INFO - History saved successfully to /mnt/c/Users/meta/IS601/midterm-project/test_history/test_history.csv
+2025-10-09 23:21:34,919 - INFO - Logging initialized at: /mnt/c/Users/meta/IS601/midterm-project/test_logs/test_log.log
+2025-10-09 23:21:34,959 - INFO - Loaded 10 calculations from history
+2025-10-09 23:21:34,959 - INFO - Calculator initialized with configuration
+2025-10-09 23:21:34,960 - INFO - Added observer: LoggingObserver
+2025-10-09 23:21:34,960 - INFO - Added observer: AutoSaveObserver
+2025-10-09 23:21:34,960 - INFO - Set operation: Addition
+2025-10-09 23:21:34,961 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-09 23:21:34,975 - INFO - History saved successfully to /mnt/c/Users/meta/IS601/midterm-project/test_history/test_history.csv
+2025-10-09 23:21:35,047 - INFO - History auto-saved
+2025-10-09 23:27:39,736 - INFO - Logging initialized at: /mnt/c/Users/meta/IS601/midterm-project/test_logs/test_log.log
+2025-10-09 23:27:39,773 - INFO - Loaded 11 calculations from history
+2025-10-09 23:27:39,774 - INFO - Calculator initialized with configuration
+2025-10-09 23:27:39,774 - INFO - Added observer: LoggingObserver
+2025-10-09 23:27:39,775 - INFO - Added observer: AutoSaveObserver
+2025-10-09 23:27:39,804 - INFO - Logging initialized at: /mnt/c/Users/meta/IS601/midterm-project/test_logs/test_log.log
+2025-10-09 23:27:39,839 - INFO - Loaded 11 calculations from history
+2025-10-09 23:27:39,840 - INFO - Calculator initialized with configuration
+2025-10-09 23:27:39,841 - INFO - Added observer: LoggingObserver
+2025-10-09 23:27:39,841 - INFO - Added observer: AutoSaveObserver
+2025-10-09 23:27:39,897 - INFO - History saved successfully to /mnt/c/Users/meta/IS601/midterm-project/test_history/test_history.csv
+2025-10-09 23:27:39,943 - INFO - Logging initialized at: /mnt/c/Users/meta/IS601/midterm-project/test_logs/test_log.log
+2025-10-09 23:27:39,992 - INFO - Loaded 11 calculations from history
+2025-10-09 23:27:39,993 - INFO - Calculator initialized with configuration
+2025-10-09 23:27:39,993 - INFO - Added observer: LoggingObserver
+2025-10-09 23:27:39,994 - INFO - Added observer: AutoSaveObserver
+2025-10-09 23:27:39,995 - INFO - Set operation: Addition
+2025-10-09 23:27:39,995 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-09 23:27:40,039 - INFO - History saved successfully to /mnt/c/Users/meta/IS601/midterm-project/test_history/test_history.csv
+2025-10-09 23:27:40,180 - INFO - History auto-saved
+2025-10-09 23:28:47,528 - INFO - Logging initialized at: /mnt/c/Users/meta/IS601/midterm-project/test_logs/test_log.log
+2025-10-09 23:28:47,538 - INFO - Loaded 12 calculations from history
+2025-10-09 23:28:47,539 - INFO - Calculator initialized with configuration
+2025-10-09 23:28:47,539 - INFO - Added observer: LoggingObserver
+2025-10-09 23:28:47,539 - INFO - Added observer: AutoSaveObserver
+2025-10-09 23:28:47,563 - INFO - Logging initialized at: /mnt/c/Users/meta/IS601/midterm-project/test_logs/test_log.log
+2025-10-09 23:28:47,585 - INFO - Loaded 12 calculations from history
+2025-10-09 23:28:47,585 - INFO - Calculator initialized with configuration
+2025-10-09 23:28:47,585 - INFO - Added observer: LoggingObserver
+2025-10-09 23:28:47,585 - INFO - Added observer: AutoSaveObserver
+2025-10-09 23:28:47,606 - INFO - History saved successfully to /mnt/c/Users/meta/IS601/midterm-project/test_history/test_history.csv
+2025-10-09 23:28:47,623 - INFO - Logging initialized at: /mnt/c/Users/meta/IS601/midterm-project/test_logs/test_log.log
+2025-10-09 23:28:47,636 - INFO - Loaded 12 calculations from history
+2025-10-09 23:28:47,636 - INFO - Calculator initialized with configuration
+2025-10-09 23:28:47,636 - INFO - Added observer: LoggingObserver
+2025-10-09 23:28:47,636 - INFO - Added observer: AutoSaveObserver
+2025-10-09 23:28:47,636 - INFO - Set operation: Addition
+2025-10-09 23:28:47,637 - INFO - Calculation performed: Addition (2, 3) = 5
+2025-10-09 23:28:47,646 - INFO - History saved successfully to /mnt/c/Users/meta/IS601/midterm-project/test_history/test_history.csv
+2025-10-09 23:28:47,710 - INFO - History auto-saved
