@@ -91,7 +91,7 @@ class Calculation:
 
         This method is called when a division by zero is attempted.
         """
-        raise OperationError("Division by zero is not allowed")
+        raise OperationError("Division by zero is not allowed by {}", operation)
 
     @staticmethod
     def _raise_neg_power():  # pragma: no cover

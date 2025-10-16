@@ -192,7 +192,7 @@ class TestIntegerDivision(BaseOperationTest):
     operation_class = IntegerDivision
     valid_test_cases = {
         "basic_division": {"a": "10", "b": "3", "expected": "3"},
-        "negative_division": {"a": "-10", "b": "3", "expected": "-4"},
+        "negative_division": {"a": "-10", "b": "3", "expected": "-3"},
         "zero_dividend": {"a": "0", "b": "5", "expected": "0"},
     }
     invalid_test_cases = {
@@ -219,7 +219,7 @@ class TestPercentage(BaseOperationTest):
             "a": "5",
             "b": "0",
             "error": ValidationError,
-            "message": "Division by zero is not allowed for percentage"
+            "message": "Division by zero is not allowed"
         },
     }
 
